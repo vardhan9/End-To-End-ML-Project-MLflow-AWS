@@ -1,0 +1,5 @@
+Day1:
+
+1. Create template.py : creates project structure with folders and files
+
+conda create -p mlflow-env  python==3.8 -y # to create environment
