@@ -1,0 +1,15 @@
+artifact_uri: file:///M:/Learning_Workspace/AI/AI_Projects/KrishNaikProjects/End-To-End-ML-Project-MLflow-AWS/mlruns/0/97df0fbb5f734ffa8097d6b9a1fde18e/artifacts
+end_time: 1721297669340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97df0fbb5f734ffa8097d6b9a1fde18e
+run_name: dapper-whale-436
+run_uuid: 97df0fbb5f734ffa8097d6b9a1fde18e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721297661849
+status: 3
+tags: []
+user_id: Raja Marthala
