@@ -37,7 +37,7 @@ setuptools.setup(
     project_urls = {
         "Bug Tracker": f"http://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
-    package_dir={"": "SRC"},
+    package_dir={"": "src"},
     packages = setuptools.find_packages(where="src"),
     install_requires=get_requirements('requirements.txt')
 )
